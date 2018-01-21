@@ -1,5 +1,7 @@
 div {
-  postion: absolute;
+  position: fixed;
+  top: 0;
+  left: 0;
   height: 0px;
   width: 1920px;
   background-color: black;
